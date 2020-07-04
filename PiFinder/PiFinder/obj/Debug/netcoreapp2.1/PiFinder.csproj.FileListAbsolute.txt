@@ -1,0 +1,11 @@
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\PiFinder\PiFinder\bin\Debug\netcoreapp2.1\PiFinder.deps.json
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\PiFinder\PiFinder\bin\Debug\netcoreapp2.1\PiFinder.runtimeconfig.json
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\PiFinder\PiFinder\bin\Debug\netcoreapp2.1\PiFinder.runtimeconfig.dev.json
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\PiFinder\PiFinder\bin\Debug\netcoreapp2.1\PiFinder.dll
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\PiFinder\PiFinder\bin\Debug\netcoreapp2.1\PiFinder.pdb
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\PiFinder\PiFinder\obj\Debug\netcoreapp2.1\PiFinder.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\PiFinder\PiFinder\obj\Debug\netcoreapp2.1\PiFinder.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\PiFinder\PiFinder\obj\Debug\netcoreapp2.1\PiFinder.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\PiFinder\PiFinder\obj\Debug\netcoreapp2.1\PiFinder.AssemblyInfo.cs
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\PiFinder\PiFinder\obj\Debug\netcoreapp2.1\PiFinder.dll
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\PiFinder\PiFinder\obj\Debug\netcoreapp2.1\PiFinder.pdb
